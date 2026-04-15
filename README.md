@@ -2,7 +2,7 @@
 
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student Email:** tiendungtran2005@gmail.com
+**Student Email:** tiendungtran2005@gmail.com  
 **Name:** Trần Tiến Dũng
 
 ---
